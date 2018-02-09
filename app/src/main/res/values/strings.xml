@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">PrimeiraAula</string>
+    <string name="Dont_clique">Generate number</string>
+</resources>
