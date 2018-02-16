@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Dont_clique">Gerar numero da sorte</string>
+    <string name="desenvolvido_por">desenvolvido por Nelson</string>
 </resources>
